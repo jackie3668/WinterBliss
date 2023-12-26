@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/winter-bliss/static/css/main.2f69b7ad.css",
+    "main.js": "/winter-bliss/static/js/main.e8286622.js",
+    "static/media/background07.png": "/winter-bliss/static/media/background07.71302812c097c86e2051.png",
+    "static/media/Background-3.png": "/winter-bliss/static/media/Background-3.3b0b9513bc3e00984622.png",
+    "static/media/ideas.png": "/winter-bliss/static/media/ideas.022698d2d6b0247fce93.png",
+    "static/media/needs.png": "/winter-bliss/static/media/needs.625cfbfc09ee253c38e7.png",
+    "static/media/ideation.png": "/winter-bliss/static/media/ideation.f988ab3855d8c64f8bc4.png",
+    "static/media/asis.png": "/winter-bliss/static/media/asis.9b1fce7d4fbb22c43a96.png",
+    "static/media/mifi.png": "/winter-bliss/static/media/mifi.f6bb150d39240bfffc18.png",
+    "static/media/persona.jpg": "/winter-bliss/static/media/persona.800eab60930e68026af3.jpg",
+    "static/media/tobe.png": "/winter-bliss/static/media/tobe.a60fc1dbd9daffb1230c.png",
+    "static/media/lofi.png": "/winter-bliss/static/media/lofi.9acdca7726c94bab64d6.png",
+    "static/media/affinity.png": "/winter-bliss/static/media/affinity.cea2152cd660ab1c4dab.png",
+    "index.html": "/winter-bliss/index.html",
+    "main.2f69b7ad.css.map": "/winter-bliss/static/css/main.2f69b7ad.css.map",
+    "main.e8286622.js.map": "/winter-bliss/static/js/main.e8286622.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f69b7ad.css",
+    "static/js/main.e8286622.js"
+  ]
+}
